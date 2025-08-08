@@ -1,17 +1,14 @@
 # Hi, I'm Tim Dodd
 
-## Full-Stack Developer & Home Automation Enthusiast
 
-I'm a passionate software engineer specializing in building modern web applications, home automation systems, and developer tools. I love creating solutions that bridge the gap between complex technology and intuitive user experiences.
-
-### 🚀 What I Do
+###  What I Do
 
 - **Full-Stack Web Development**: Building scalable applications with .NET Core, Angular, and modern web technologies
 - **Home Automation**: Creating smart home solutions with Hubitat, MQTT, and Kubernetes integration
 - **Developer Tooling**: Crafting utilities that make development workflows more efficient
 - **Media Processing**: Building automated pipelines for video transcoding and content management
 
-### 💻 Tech Stack
+###  Tech Stack
 
 **Backend:**
 - .NET 9.0 / ASP.NET Core
@@ -43,7 +40,7 @@ I'm a passionate software engineer specializing in building modern web applicati
 - Linux system administration
 - PowerShell scripting
 
-### 🏡 Notable Projects
+###  Notable Projects
 
 **[HomeDash](https://github.com/timothydodd/HomeDash)** - Full-stack smart home dashboard
 - Real-time monitoring and control of IoT devices
@@ -71,16 +68,6 @@ I'm a passionate software engineer specializing in building modern web applicati
 - Creating automated media processing pipelines
 - Developing IoT solutions for smart home automation
 - Exploring cross-platform .NET development
-
-### 🌟 What Drives Me
-
-I'm passionate about creating tools that solve real-world problems and improve daily stuff. Whether it's automating a tedious task, building a beautiful user interface, or integrating disparate systems, I love the challenge of turning complex requirements into elegant solutions.
-
-My projects often focus on:
-- **Developer Experience** - Building tools that make development more enjoyable
-- **Home Automation** - Creating smart, responsive living spaces
-- **Media Management** - Automating content processing and organization
-- **Real-time Systems** - Building responsive, connected applications
 
 ### 📫 Let's Connect
 
