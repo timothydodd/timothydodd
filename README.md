@@ -1,74 +1,28 @@
-# Hi, I'm Tim Dodd
+# Tim Dodd
 
+Full-stack developer working mostly in .NET and Angular, with a side interest in infrastructure and home automation.
 
-###  What I Do
+### What I work with
 
-- **Full-Stack Web Development**: Building scalable applications with .NET Core, Angular, and modern web technologies
-- **Home Automation**: Creating smart home solutions with Hubitat, MQTT, and Kubernetes integration
-- **Developer Tooling**: Crafting utilities that make development workflows more efficient
-- **Media Processing**: Building automated pipelines for video transcoding and content management
+**Backend:** .NET / ASP.NET Core, C#, Go, EF Core & ServiceStack OrmLite, SignalR
+**Frontend:** Angular (standalone components, signals), TypeScript, SCSS
+**Data:** MySQL, SQLite
+**Infra:** Docker, Kubernetes, Azure DevOps, Linux
+**IoT:** MQTT, Hubitat, Raspberry Pi
 
-###  Tech Stack
+### Projects
 
-**Backend:**
-- .NET 9.0 / ASP.NET Core
-- C# with modern language features
-- Entity Framework Core / ServiceStack OrmLite
-- SignalR for real-time communication
-- Docker & Kubernetes
+### What I work with
 
-**Frontend:**
-- Angular 20+ with standalone components
-- TypeScript / JavaScript
-- SCSS with utility-first CSS
-- Signal-based reactive state management
+**Backend:** .NET / ASP.NET Core, C#, Go, EF Core & ServiceStack OrmLite, SignalR
+**Frontend:** Angular (standalone components, signals), TypeScript, SCSS
+**Data:** MySQL, SQLite
+**Infra:** Docker, Kubernetes, Azure DevOps,
+**IoT:** MQTT, Hubitat, Raspberry Pi
 
-**Databases & Storage:**
-- MySQL / SQLite
-- Entity Framework migrations
-- Repository pattern implementation
+### Projects
 
-**IoT & Automation:**
-- MQTT messaging
-- Hubitat Elevation integration
-- Raspberry Pi development
-- Hardware monitoring (SSD1306 displays)
-
-**DevOps & Tools:**
-- Azure DevOps pipelines
-- Docker containerization
-- Linux system administration
-- PowerShell scripting
-
-###  Notable Projects
-
-**[HomeDash](https://github.com/timothydodd/HomeDash)** - Full-stack smart home dashboard
-- Real-time monitoring and control of IoT devices
-- Angular 20 + .NET 9 with glass morphism design
-- Integrates with Hubitat, OpenWeather API, and Kubernetes
-
-**[MailVoid](https://github.com/timothydodd/mailvoid)** - Developer email testing tool
-- Captures and manages test emails for development workflows  
-- JWT authentication with refresh token rotation
-- Angular 19 frontend with real-time SignalR notifications
-
-**[HandbrakeScheduler](https://github.com/timothydodd/HandbrakeScheduler)** - Automated video transcoding service
-- Monitors directories and processes video files with HandBrake CLI
-- REST API for file uploads with rich media metadata
-- Integrates seamlessly with AutoMk for automated disc-to-library pipeline
-
-**[Hubitat-to-MQTT](https://github.com/timothydodd/hubitat-to-mqtt)** - IoT bridge service
-- Bridges Hubitat Elevation smart home hub with MQTT brokers
-- Real-time device synchronization with webhook and polling hybrid approach
-- .NET 9 background service with health monitoring
-
-### 🎯 Current Focus
-
-- Building modern Angular applications with Signal-based reactivity
-- Creating automated media processing pipelines
-- Developing IoT solutions for smart home automation
-- Exploring cross-platform .NET development
-
-### 📫 Let's Connect
-
-I'm always interested in discussing new projects, sharing knowledge, or collaborating on interesting challenges. Feel free to explore my repositories and reach out if you'd like to chat about development, home automation, or any of the technologies I work with!
+- **[Ntunl](https://github.com/timothydodd/Ntunl)** — Self-hosted tunneling tool (à la ngrok) for securely exposing local services to the internet. Written in Go.
+- **[LogMk](https://github.com/timothydodd/LogMk)** — Lightweight Kubernetes log monitoring with real-time streaming. .NET API + Angular UI + DaemonSet agent.
+- **[MailVoid](https://github.com/timothydodil testing tool — capture and organize testemails via webhooks.
+- **[thorngate](https://github.com/timothydoency Go reverse-proxy WAF that sits behind aCloudflare Tunnel and honeypot-blacklists intruders.
