@@ -12,16 +12,6 @@ Full-stack developer working mostly in .NET and Angular, with a side interest in
 
 ### Projects
 
-### What I work with
-
-**Backend:** .NET / ASP.NET Core, C#, Go, EF Core & ServiceStack OrmLite, SignalR
-**Frontend:** Angular (standalone components, signals), TypeScript, SCSS
-**Data:** MySQL, SQLite
-**Infra:** Docker, Kubernetes, Azure DevOps,
-**IoT:** MQTT, Hubitat, Raspberry Pi
-
-### Projects
-
 - **[Ntunl](https://github.com/timothydodd/Ntunl)** — Self-hosted tunneling tool (à la ngrok) for securely exposing local services to the internet. Written in Go.
 - **[LogMk](https://github.com/timothydodd/LogMk)** — Lightweight Kubernetes log monitoring with real-time streaming. .NET API + Angular UI + DaemonSet agent.
 - **[MailVoid](https://github.com/timothydodil testing tool — capture and organize testemails via webhooks.
